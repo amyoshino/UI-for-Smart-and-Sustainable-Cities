@@ -15,3 +15,8 @@ To do this, you will need to extract the relevant 311 data, land use (PLUTO) dat
 There are two options for your submission:
 (1) Submit your Python code and output (through Git is fine) that addresses the above
 requirements. You should discuss your findings. You will be evaluated on the quality of the code and output.
+
+
+311 data can be obtained on: https://nycopendata.socrata.com/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9
+PLUTO data: https://www1.nyc.gov/site/planning/data-maps/open-data/dwn-pluto-mappluto.page
+weather data: https://www.wunderground.com/history
